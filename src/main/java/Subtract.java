@@ -15,6 +15,7 @@ public class Subtract {
      * @return a minus b
      */
     public double sub(double a, double b){
-        return 0;
+        // the solution does not change in concept from add
+        return a - b;
     }
 }
